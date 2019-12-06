@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Study/java/Redis/Redis jar包/commons-pool2-2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Study/java/Redis/Redis jar包/jedis-2.7.0.jar" sourcepath="D:/Study/java/maven/redis/clients/jedis/2.7.0/jedis-2.7.0-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/Study/java/Redis/案例 jar包/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/Study/java/Redis/案例 jar包/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Study/java/Redis/案例 jar包/druid-1.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/Study/java/Redis/案例 jar包/jackson-annotations-2.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Study/java/Redis/案例 jar包/jackson-core-2.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Study/java/Redis/案例 jar包/jackson-databind-2.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Study/java/Redis/案例 jar包/javax.servlet.jsp.jstl.jar"/>
+	<classpathentry kind="lib" path="D:/Study/java/Redis/案例 jar包/jstl-impl.jar"/>
+	<classpathentry kind="lib" path="D:/Study/java/Redis/案例 jar包/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="D:/Study/java/Redis/案例 jar包/spring-beans-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Study/java/Redis/案例 jar包/spring-core-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Study/java/Redis/案例 jar包/spring-jdbc-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Study/java/Redis/案例 jar包/spring-tx-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
