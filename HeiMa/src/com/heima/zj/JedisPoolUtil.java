@@ -11,7 +11,7 @@ import redis.clients.jedis.JedisPoolConfig;
 public class JedisPoolUtil {
 
 	/**
-	 * 获取连接的方法
+	 * 获取连接的方法123
 	 */
 	private static JedisPool jedisPool;
 	
