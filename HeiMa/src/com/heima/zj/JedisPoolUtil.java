@@ -13,7 +13,7 @@ public class JedisPoolUtil {
 	/**
 	 * 获取连接的方法123
 	 */
-	//hhhh
+	//dddd
 	private static JedisPool jedisPool;
 	
 	static {
